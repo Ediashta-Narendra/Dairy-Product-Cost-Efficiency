@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Supermarket Cost Efficiency Analysis</title>
+<title>Supermarket Cost Efficiency Analysis</title>
 </head>
 <body>
     <h1>Supermarket Cost Efficiency Analysis</h1>
@@ -13,7 +13,6 @@
         Towards the SMART framework, the goal is to increase the company's profits through cost efficiency, optimizing refrigerator usage for storing dairy products, 
         and achieving a 10% cost reduction in the first quarter after implementing the efficiency decision.
     </p>
-    
     <h2>Problem Breakdown 🧩</h2>
     <ul>
         <li>How much is the monthly average of storage costs for dairy products during 2022–2023? Are there specific periods where patterns can be identified?</li>
