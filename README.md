@@ -1,8 +1,4 @@
 
-Here's the HTML version for your repository README:
-
-html
-Copy code
 <!DOCTYPE html>
 <html lang="en">
 <head>
