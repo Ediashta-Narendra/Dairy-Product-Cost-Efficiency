@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Supermarket Cost Efficiency Analysis</title>
 </head>
 <body>
     <h1>Supermarket Cost Efficiency Analysis</h1>
@@ -22,21 +21,18 @@
         <li>Are products with the lowest turnover ratio caused by high prices?</li>
         <li>Is there a relationship between the product categories to be evaluated and their farm or supplier?</li>
     </ul>
-
     <h2>Features</h2>
     <ul>
         <li>Data Preprocessing</li>
         <li>Exploratory Data Analysis</li>
         <li>Hypothesis Testing</li>
     </ul>
-
     <h2>Tech Stack</h2>
     <ul>
         <li><strong>Programming Language:</strong> Python</li>
         <li><strong>Libraries:</strong> Pandas, NumPy, Matplotlib, Scipy</li>
         <li><strong>Visualization:</strong> Tableau</li>
     </ul>
-
     <h2>Tableau Visualization</h2>
     <p>
         The analysis also includes a <a href="https://public.tableau.com/shared/SGD8QNRPH?:display_count=n&:origin=viz_share_link" target="_blank">Tableau visualization</a>.
