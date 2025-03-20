@@ -39,7 +39,7 @@
     <p>
         <a href="https://github.com/Ediashta-Narendra/Dairy-Product-Cost-Efficiency/blob/main/slides%20dairy%20product%20inventory%20cost.pptx" target="_blank">Reporting Deck</a>
     <p>
-        The analysis also includes a <a href="https://public.tableau.com/shared/SGD8QNRPH?:display_count=n&:origin=viz_share_link" target="_blank">Tableau visualization</a>.
+        <a href="https://public.tableau.com/shared/SGD8QNRPH?:display_count=n&:origin=viz_share_link" target="_blank">Tableau Dashboard</a>.
     </p>
 </body>
 </html>
