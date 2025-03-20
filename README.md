@@ -36,9 +36,9 @@
     <h2>Deliverables:</h2>
     <p>
         <a href="https://github.com/Ediashta-Narendra/Dairy-Product-Cost-Efficiency/blob/main/Data%20Analysis%20for%20Dairy%20Product%20Cost%20Effeciency.ipynb" target="_blank">Notebook for Data Analysis</a>
-
+    <p>
         <a href="https://github.com/Ediashta-Narendra/Dairy-Product-Cost-Efficiency/blob/main/slides%20dairy%20product%20inventory%20cost.pptx" target="_blank">Reporting Deck</a>
-        
+    <p>
         The analysis also includes a <a href="https://public.tableau.com/shared/SGD8QNRPH?:display_count=n&:origin=viz_share_link" target="_blank">Tableau visualization</a>.
     </p>
 </body>
